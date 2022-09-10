@@ -1,2 +1,6 @@
-print("hello aditi!!")
-print("hello ashmitha!!")
+def name():
+  return("Hello aditi!!")
+
+
+
+
